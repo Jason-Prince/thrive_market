@@ -1,5 +1,5 @@
 # Responsive HTML Email Newsletter
 
-## Rebuilt from a Thrive Market newsletter using HTML, CSS, and MJML.
+Modeled after a Thrive Market newsletter using HTML, CSS, and MJML.
 
-[Thrive Market Newsletter](https://res.cloudinary.com/endersgame/image/upload/v1670303737/thrive_market/screenshot_xqvech.png)
+![screenshot](https://user-images.githubusercontent.com/20798984/205823619-d9d45426-4bbe-42cb-a1e6-14f42d79946e.png)
